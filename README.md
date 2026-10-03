@@ -8,6 +8,9 @@ I run **[MusaBase](https://www.musabase.com)**, a Linux, Arch, BSD, Hyprland, an
 
 #### 🖥️ Hyprland Dotfiles
 - [Best Hyprland Dotfiles Compared and Tested](https://www.musabase.com/p/best-hyprland-dotfiles-for-linux.html)
+- [Caelestia Dots on NixOS](https://www.musabase.com/p/best-hyprland-dotfiles-for-linux.html)
+- [JaKooLit Hyprland on NixOS](https://www.musabase.com/2026/09/install-jakoolit-hyprland-dotfiles-on-nixos.html)
+- [ML4W Hyprland on NixOS](https://www.musabase.com/2026/09/install-ml4w-hyprland-dotfiles-on-nixos.html)
 - [End 4 Hyprland Dotfiles on Arch Linux](https://www.musabase.com/p/best-hyprland-dotfiles-for-linux.html)
 - [JaKooLit Hyprland Dotfiles on Arch Linux](https://www.musabase.com/2025/10/how-to-install-jakoolit-hyprland-dotfiles.html)
 - [HyDE Dotfiles on Arch Linux](https://www.musabase.com/2025/06/arch-linux-with-hyprland-hyde-project.html)
