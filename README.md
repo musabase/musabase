@@ -18,8 +18,28 @@ I run **[MusaBase](https://www.musabase.com)**, a Linux, Arch, BSD, Hyprland, an
 - [ML4W Dotfiles on Arch Linux](https://www.musabase.com/2025/10/install-caelestia-dotfiles-on-arch-linux.html)
 
 #### ⚙️ Arch Linux
-- [The Complete Arch Linux Installation Guide](https://www.musabase.com/2025/03/the-complete-arch-linux-installation.html)
 - [Complete Arch Linux Roadmap](https://www.musabase.com/p/complete-arch-linux-roadmap.html)
+- [The Complete Arch Linux Installation Guide](https://www.musabase.com/2025/03/the-complete-arch-linux-installation.html)
+- [Arch Linux with Btrfs Filesystem and Snapshot-Ready Subvolumes Guide](https://www.musabase.com/2026/06/how-to-install-arch-linux-with-btrfs-filesystem.html)
+- [Automate a Minimal Arch Linux Installation with archinstall Script](https://www.musabase.com/2025/06/how-to-automate-minimal-arch-linux.html)
+- [Dual Boot Arch Linux and Windows](https://www.musabase.com/2025/03/the-ultimate-guide-to-dual-boot-arch.html)
+
+#### 📱 Desktop Environments for Arch Linux
+- [KDE Plasma on Arch Linux](https://www.musabase.com/2025/12/install-kde-plasma-on-arch-linux.html)
+- [Caelestia-KDE on Arch Linux](https://www.musabase.com/2026/09/install-caelestia-kde-dots-on-arch-linux.html)
+- [GNOME on Arch Linux](https://www.musabase.com/2026/01/install-gnome-arch-linux.html)
+- [XFCE on Arch Linux](https://www.musabase.com/2026/01/install-xfce-on-arch-linux.html)
+
+#### 📈 Arch Linux Optimization and System Hardening 
+- [Install Rollback / Rewind Feature on Arch Linux](https://www.musabase.com/2026/06/how-to-set-up-snapper-grub-btrfs-arch-linux.html)
+- [Optimize Pacman / AUR Download Speed and Fix Couldn't Resolve Host](https://www.musabase.com/2026/01/fix-slow-pacman-downloads-arch-linux.html)
+- [Add Missing Windows Entry on GRUB for Dual-Boot](https://www.musabase.com/2026/01/fix-windows-missing-in-grub-arch-linux.html)
+
+#### 🛠 Everyday App and Tools for Arch Linux
+- [Make Arch Linux Daily Driver](https://www.musabase.com/2026/01/make-arch-linux-daily-driver.html)
+- [Install DaVinci on Arch Linux](https://www.musabase.com/2026/01/how-to-install-davinci-resolve-arch-linux.html)
+- [Free and Open-Source Screen Recorder and Streaming App (OBS) on Arch Linux](https://www.musabase.com/2026/01/obs-studio-screen-recording-guide-arch-linux.html)
+- [IDM Alternative on Arch Linux: JDownloader 2](https://www.musabase.com/2026/01/jdownloader-arch-linux-idm-alternative.html)
 
 #### 🧊 BSD
 - [Complete BSD Roadmap](https://www.musabase.com/p/complete-bsd-roadmap-installation.html)
