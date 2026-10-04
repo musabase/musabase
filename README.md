@@ -5,25 +5,25 @@ I run **[MusaBase](https://www.musabase.com)**, a Linux, Arch, BSD, Hyprland, an
 **Start here** [musabase.com](https://www.musabase.com)
 
 <p valign="middle">
-  <a href="https://www.musabase.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.musabase.com">
     <img src="https://cdn.musabase.com/github-logo.png" alt="MusaBase" height="28" />
   </a>
-  <a href="https://www.musabase.com/p/complete-arch-linux-roadmap.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.musabase.com/p/complete-arch-linux-roadmap.html">
     <img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" height="28" />
   </a>
-  <a href="https://www.musabase.com/p/best-hyprland-dotfiles-for-linux.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.musabase.com/p/best-hyprland-dotfiles-for-linux.html">
     <img src="https://img.shields.io/badge/Hyprland-Dotfiles-58E1FF?style=for-the-badge" alt="Hyprland" height="28" />
   </a>
-  <a href="https://www.musabase.com/p/advanced-linux-distributions.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.musabase.com/p/advanced-linux-distributions.html">
     <img src="https://img.shields.io/badge/Linux-Guides-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="28" />
   </a>
-  <a href="https://www.musabase.com/p/complete-bsd-roadmap-installation.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.musabase.com/p/complete-bsd-roadmap-installation.html">
     <img src="https://img.shields.io/badge/BSD-Roadmap-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="BSD" height="28" />
   </a>
-  <a href="https://www.musabase.com/p/linux-virtualization-qemukvm-complete.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.musabase.com/p/linux-virtualization-qemukvm-complete.html">
     <img src="https://img.shields.io/badge/Virtualization-QEMU%2FKVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="Virtualization" height="28" />
   </a>
-  <a href="https://www.musabase.com/p/linux-gaming-roadmap-complete-musabase.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.musabase.com/p/linux-gaming-roadmap-complete-musabase.html">
     <img src="https://img.shields.io/badge/Linux-Gaming-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Linux Gaming" height="28" />
   </a>
 </p>
