@@ -45,7 +45,7 @@ Comparison guide [Best Hyprland Dotfiles Compared and Tested](https://www.musaba
 <tbody>
 <tr>
 <td>Caelestia</td>
-<td><a href="https://www.musabase.com/p/best-hyprland-dotfiles-for-linux.html">Caelestia Dots on NixOS</a></td>
+<td><a href="https://www.musabase.com/2026/09/install-caelestia-dotfiles-on-nixos.html">Caelestia Dots on NixOS</a></td>
 <td><a href="https://www.musabase.com/2025/10/install-caelestia-dotfiles-on-arch-linux.html">Caelestia Dots on Arch Linux</a></td>
 </tr>
 <tr>
@@ -56,12 +56,12 @@ Comparison guide [Best Hyprland Dotfiles Compared and Tested](https://www.musaba
 <tr>
 <td>ML4W</td>
 <td><a href="https://www.musabase.com/2026/09/install-ml4w-hyprland-dotfiles-on-nixos.html">ML4W Hyprland on NixOS</a></td>
-<td><a href="https://www.musabase.com/2025/10/install-caelestia-dotfiles-on-arch-linux.html">ML4W Dotfiles on Arch Linux</a></td>
+<td><a href="https://www.musabase.com/2025/05/how-to-install-hyprland-ml4w-on-arch-linux.html">ML4W Dotfiles on Arch Linux</a></td>
 </tr>
 <tr>
 <td>End 4</td>
-<td>Coming Soon</td>
-<td><a href="https://www.musabase.com/p/best-hyprland-dotfiles-for-linux.html">End 4 Hyprland Dotfiles on Arch Linux</a></td>
+<td><a href="https://www.musabase.com/2026/10/install-end-4-hyprland-dotfiles-on-nixos.html">End-4 Dots on NixOS</a></td>
+<td><a href="https://www.musabase.com/2025/10/how-to-install-end-4-hyprland-dotfiles-on-arch-linux.html">End 4 Hyprland Dotfiles on Arch Linux</a></td>
 </tr>
 <tr>
 <td>HyDE</td>
