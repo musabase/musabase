@@ -65,8 +65,8 @@ Comparison guide [Best Hyprland Dotfiles Compared and Tested](https://www.musaba
 </tr>
 <tr>
 <td>HyDE</td>
-<td>Coming Soon</td>
-<td><a href="https://www.musabase.com/2025/06/arch-linux-with-hyprland-hyde-project.html">HyDE Dotfiles on Arch Linux</a></td>
+<td><a href="https://www.musabase.com/2026/11/hyde-hyprland-dotfiles-on-nixos.html">HyDE Hyprland Dotfiles on NixOS</a></td>
+<td><a href="https://www.musabase.com/2025/06/arch-linux-with-hyprland-hyde-project.html">HyDE Hyprland Dotfiles on Arch Linux</a></td>
 </tr>
 </tbody>
 </table>
